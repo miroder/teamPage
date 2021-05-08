@@ -5,6 +5,9 @@
       <h1 class="title">
         teamPage
       </h1>
+      <h2 class="subtitle">
+        sub title
+      </h2>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
